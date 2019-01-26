@@ -1,0 +1,9 @@
+[package]
+name = "win_key_codes"
+version = "0.1.1"
+authors = ["DucaRii"]
+edition = "2018"
+license = "MIT OR Apache-2.0"
+description = "All windows virtual key codes translated in Rust"
+repository = "https://github.com/DucaRii/win_key_codes"
+[dependencies]
